@@ -1,1 +1,1 @@
-# Practicing-Codes
+Practicing codes
